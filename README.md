@@ -7,3 +7,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/abhinam18/ML_project.git
 git push -u origin main
+First i get the data from kaggle dataset in csv format
